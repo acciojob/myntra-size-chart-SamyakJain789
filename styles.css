@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+table ,th, tr, td{
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+th{
+	width:100px;
+	text-align:left;
+	color:white;
+}
+.heading{
+	background-color:indianred;
+}
+.name{
+	text-align:left;
+}
+td{
+	text-align:right;
+}
+.row-1{
+	background-color: #F1A290;
+	color:white;
+}
+.row-2{
+	background-color: #F0E4CE;
+}
+.row-3{
+	background-color: #D2E0C8;
+}
